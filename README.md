@@ -22,10 +22,10 @@
 
 I am a hardware-software engineer with a deep focus on bridging physical systems with advanced AI. From developing custom object detection pipelines for edge hardware to leading large-scale technical initiatives, I build systems that live at the intersection of algorithms and electronics.
 
-* 🔭 **Currently building:** **VortexSQL/PulseSQL** (an AI-powered sales intelligence agent) and researching hybrid deep learning architectures.
+
 * 🌱 **Deeply focused on:** Multi-modal RAG pipelines, edge AI (NVIDIA Jetson AGX Thor), and complex signal processing.
 * 🤝 **Leadership:** Founding Chairperson & 2026 Student Ambassador for IEEE ComSoc, driving global tech initiatives, Hackathons (Paradox, AMD), and robotics events (BOTCAMP).
-* 💡 **Interests:** Quantitative finance, algorithmic trading, exoplanet transit signal detection, and 3D computer vision.
+* 💡 **Interests:** Quantitative finance, exploring AIML, embedded systems, exoplanet transit signal detection, and 3D computer vision.
 * ⚡ **Fun fact:** I love applying first-principles thinking to everything from digital logic to basketball strategies.
 
 ---
@@ -70,7 +70,3 @@ I am a hardware-software engineer with a deep focus on bridging physical systems
 
 <br/>
 
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=8a2be2" alt="Profile Views" />
-</div>
