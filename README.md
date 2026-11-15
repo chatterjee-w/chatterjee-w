@@ -4,7 +4,7 @@
   <!-- Optional: You can add a custom banner image here like in your reference image -->
   <!-- <img src="link_to_your_custom_banner.png" alt="Profile Banner" width="100%"> -->
 
-  <h1>Hi there, I'm Abhinab Chatterjee </h1>
+  <h1 align="center">Hi there, I'm Abhinab Chatterjee </h1>
   
   <p align="center">
     <b>AI & Machine Learning Engineer | Embedded Systems & Robotics | Hardware-Software Architect</b>
