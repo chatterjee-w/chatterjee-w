@@ -1,3 +1,4 @@
+<img width="2304" height="1844" alt="Banner png" src="https://github.com/user-attachments/assets/3df732e9-52df-4dbf-8494-89c20ac165d5" />
 <div align="center">
   
   <!-- Optional: You can add a custom banner image here like in your reference image -->
