@@ -1,5 +1,5 @@
-<img width="2304" height="1844" alt="Banner png" src="https://github.com/user-attachments/assets/3df732e9-52df-4dbf-8494-89c20ac165d5" />
-<div align="center">
+<img width="2171" height="1591" alt="Banner" src="https://github.com/user-attachments/assets/7ad39e65-c5d7-4311-b42e-bc14c2a3b14a" />
+
   
   <!-- Optional: You can add a custom banner image here like in your reference image -->
   <!-- <img src="link_to_your_custom_banner.png" alt="Profile Banner" width="100%"> -->
